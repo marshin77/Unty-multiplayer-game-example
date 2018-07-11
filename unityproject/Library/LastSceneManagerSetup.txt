@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MasterServerKit/Demo/Scenes/GameClient/GameClient_Start.unity
+  isLoaded: 1
+  isActive: 1
